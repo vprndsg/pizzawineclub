@@ -1,0 +1,152 @@
+[
+  {
+    "id": 25,
+    "name": "Full-bodied Red",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 26,
+    "name": "Medium-bodied Red",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 27,
+    "name": "Light-bodied Red",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 28,
+    "name": "Aromatic Red",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 29,
+    "name": "Full-bodied White",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 30,
+    "name": "Light-bodied White",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 31,
+    "name": "Aromatic White",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 32,
+    "name": "Ros\u00e9 Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 33,
+    "name": "Sparkling White",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 34,
+    "name": "Sparkling Ros\u00e9",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 35,
+    "name": "Sparkling Red",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 36,
+    "name": "Champagne",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 37,
+    "name": "Prosecco",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 38,
+    "name": "Fortified Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 39,
+    "name": "Port",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 40,
+    "name": "Sherry",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 41,
+    "name": "Dessert Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 42,
+    "name": "Ice Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 43,
+    "name": "Late Harvest",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 44,
+    "name": "Natural Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 45,
+    "name": "Organic Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 46,
+    "name": "Orange Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 47,
+    "name": "Red Blend",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 48,
+    "name": "White Blend",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  },
+  {
+    "id": 49,
+    "name": "Dry Wine",
+    "emoji": "\ud83c\udf77",
+    "type": "moon"
+  }
+]

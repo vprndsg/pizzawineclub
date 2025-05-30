@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "name": "Cabernet Sauvignon",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 1,
+    "name": "Merlot",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 2,
+    "name": "Pinot Noir",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 3,
+    "name": "Syrah",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 4,
+    "name": "Zinfandel",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 5,
+    "name": "Sangiovese",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 6,
+    "name": "Nebbiolo",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 7,
+    "name": "Tempranillo",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 8,
+    "name": "Grenache",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 9,
+    "name": "Malbec",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 10,
+    "name": "Chardonnay",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 11,
+    "name": "Sauvignon Blanc",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 12,
+    "name": "Riesling",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 13,
+    "name": "Pinot Grigio",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 14,
+    "name": "Chenin Blanc",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 15,
+    "name": "Gew\u00fcrztraminer",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 16,
+    "name": "Viognier",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 17,
+    "name": "Cabernet Franc",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 18,
+    "name": "Barbera",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 19,
+    "name": "Gamay",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 20,
+    "name": "Mourv\u00e8dre",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 21,
+    "name": "Petite Sirah",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 22,
+    "name": "Albari\u00f1o",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 23,
+    "name": "Gr\u00fcner Veltliner",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  },
+  {
+    "id": 24,
+    "name": "Pinotage",
+    "emoji": "\ud83c\udf47",
+    "type": "star"
+  }
+]

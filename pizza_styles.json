@@ -1,0 +1,152 @@
+[
+  {
+    "id": 100,
+    "name": "Neapolitan Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 101,
+    "name": "New York-Style Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 102,
+    "name": "Chicago Deep Dish",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 103,
+    "name": "Sicilian Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 104,
+    "name": "Detroit-Style Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 105,
+    "name": "St. Louis Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 106,
+    "name": "California Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 107,
+    "name": "Greek Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 108,
+    "name": "New Haven-Style Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 109,
+    "name": "Grandma Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 110,
+    "name": "Margherita Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 111,
+    "name": "Pepperoni Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 112,
+    "name": "Hawaiian Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 113,
+    "name": "Meat Lovers Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 114,
+    "name": "Veggie Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 115,
+    "name": "BBQ Chicken Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 116,
+    "name": "Four Cheese Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 117,
+    "name": "Buffalo Chicken Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 118,
+    "name": "Supreme Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 119,
+    "name": "White Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 120,
+    "name": "Tavern-Style Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 121,
+    "name": "Roman Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 122,
+    "name": "Montanara Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 123,
+    "name": "Stuffed Crust Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  },
+  {
+    "id": 124,
+    "name": "Dessert Pizza",
+    "emoji": "\ud83c\udf55",
+    "type": "star"
+  }
+]
