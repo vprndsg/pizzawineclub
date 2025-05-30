@@ -1,6 +1,14 @@
 
 const width = innerWidth, height = innerHeight;
 const svg = d3.select("#viz");
+const viewport = svg.select('#viewport');
+let zoomTransform = d3.zoomIdentity;
+svg.call(
+  d3.zoom().scaleExtent([0.5, 5]).on('zoom', ev => {
+    zoomTransform = ev.transform;
+    viewport.attr('transform', zoomTransform);
+  })
+);
 const simulation = d3.forceSimulation()
   .force("link", d3.forceLink().id(d=>d.id).distance(120).strength(d=>d.strength))
   .force("charge", d3.forceManyBody().strength(-80))
@@ -18,14 +26,14 @@ Promise.all([
   const nodes=[...varietals,...types,...regions,...avas,...pizzas,...toppings,...bottles];
   simulation.nodes(nodes);
   simulation.force('link').links(links);
-  const nodeElems=svg.selectAll('text').data(nodes).enter().append('text')
+  const nodeElems=viewport.selectAll('text').data(nodes).enter().append('text')
       .attr('class',d=>'node '+d.type).text(d=>d.emoji).attr('font-size',d=>{
         if(d.type==='star')return 20;
         if(d.type==='planet')return 16;
         if(d.type==='moon')return 14;
         return 12;
       });
-  const linkElems=svg.selectAll('line').data(links).enter().append('line').attr('class','link');
+  const linkElems=viewport.selectAll('line').data(links).enter().append('line').attr('class','link');
   simulation.on('tick',()=>{
     nodeElems.attr('x',d=>d.x).attr('y',d=>d.y);
     linkElems.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y)
@@ -36,7 +44,12 @@ Promise.all([
     ev.stopPropagation();
     if(focus===d){ unfocus(); return; }
     unfocus();
-    focus=d; d.fx=width/2; d.fy=height/2;
+    focus=d;
+    const c = {
+      x:(width/2 - zoomTransform.x)/zoomTransform.k,
+      y:(height/2 - zoomTransform.y)/zoomTransform.k
+    };
+    d.fx=c.x; d.fy=c.y;
     nodeElems.filter(n=>n===d).classed('focus',true);
     // strengthen links
     simulation.force('link').strength(l=>{
